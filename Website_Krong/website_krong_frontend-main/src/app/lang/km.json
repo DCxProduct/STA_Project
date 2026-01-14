@@ -1,0 +1,43 @@
+{
+  "HomePage": {
+    "title": "សួរស្ដីពិភពលោក!",
+    "home": "ទំព័រដើម",
+    "about": "អំពីយើង",
+    "feedBack": "មតិកែលម្អ",
+    "more": "ស្វែងយល់បន្ថែម",
+    "tourist": "តំបន់ទេសចរណ៍",
+    "news": "ព័ត៌មាន និង ព្រឹត្តិការណ៍សំខាន់ៗ",
+    "readMore": "អានបន្ថែម",
+    "findMore": "ស្វែងយល់បន្ថែម",
+    "socialMedia": "បណ្ដាញសង្គម",
+    "otherArea": "តំបន់ផ្សេងទៀត",
+    "weather": "អាកាសធាតុ",
+    "emergencyNumber": "លេខអាសន្ន",
+    "numberType": "ប្រភេទលេខទូរសព្ទ",
+    "phoneNumber": "លេខទូរសព្ទ"
+  },
+  "Search": {
+    "searchHere": "ស្វែងរកព័ត៌មាន",
+    "searchByTopic": "ស្វែងរកព័ត៌មានតាមចំណងជើង",
+    "search": "ស្វែងរក..."
+  },
+
+  "Scholarship": {
+    "deadline": "ថ្ងៃផុតកំណត់",
+    "readMore": "អានបន្ថែម"
+  },
+  "Footer": {
+    "developBy": "អភិវឌ្ឍដោយ៖",
+    "supportBy": "សហការរៀបចំដោយ៖"
+  },
+  "Contact": {
+    "email": "អ៉ីម៉ែល",
+    "mobile": "លេខទូរសព្ទ",
+    "location": "ទីតាំង",
+    "informationForm": "ទម្រង់ផ្ដល់ព័ត៌មាន",
+    "name": "ឈ្មោះ",
+    "topic": "ប្រធានបទ",
+    "requestRaised": "សំណើរលើកឡើង",
+    "submit": "បញ្ជូន"
+  }
+}

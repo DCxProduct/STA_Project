@@ -1,0 +1,14 @@
+.neumorphic-card {
+  background: #f5f3f3; /* Light gray background */
+  border-radius: 12px;
+  box-shadow: 8px 8px 16px #d1cdcd, -8px -8px 16px #ffffff;
+  transition: all 0.2s ease-in-out;
+}
+
+.neumorphic-card:hover {
+  box-shadow: 4px 4px 8px #bebebe, -4px -4px 8px #ffffff;
+}
+
+.neumorphic-card:active {
+  box-shadow: inset 4px 4px 8px #bebebe, inset -4px -4px 8px #ffffff;
+}

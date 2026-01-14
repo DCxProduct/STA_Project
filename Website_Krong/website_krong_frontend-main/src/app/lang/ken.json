@@ -1,0 +1,43 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "home": "Home",
+    "about": "About Us",
+    "feedBack": "FeedBack",
+    "more": "Find out more",
+    "tourist": "Tourist Area",
+    "news": "News",
+    "readMore": "Read More...",
+    "findMore": "Find More",
+    "socialMedia": "Social Media",
+    "otherArea": "Other Area",
+    "weather": "Weather",
+    "emergencyNumber": "Emergency",
+    "numberType": "Service",
+    "phoneNumber": "TEL"
+  },
+  "Search": {
+    "searchHere": "Search News",
+    "searchByTopic": "Search by Topics",
+    "search": "Search..."
+  },
+
+  "Scholarship": {
+    "deadline": "Expire at",
+    "readMore": "Read More..."
+  },
+  "Footer": {
+    "developBy": "Develop By៖",
+    "supportBy": "Support By៖"
+  },
+  "Contact": {
+    "email": "Email",
+    "mobile": "Mobile",
+    "location": "Location",
+    "informationForm": "Information Form",
+    "name": "Name",
+    "topic": "Topic",
+    "requestRaised": "Request Raised",
+    "submit": "Submit"
+  }
+}
