@@ -1,9 +1,0 @@
-version: '3.8'
-services:
-  researchx:
-    build: .
-    image: research-x
-    volumes:
-      - .:/var/www/html/
-    ports:
-      - 8090:80
