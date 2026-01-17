@@ -1,0 +1,17 @@
+# Security: disable PHP execution
+<FilesMatch "\.(php|php[0-9]|phtml|phar|pl|py|jsp|asp|sh|cgi)$">
+    Require all denied
+</FilesMatch>
+
+php_flag engine off
+Options -Indexes
+
+RewriteEngine On
+
+# Block directory access (root and all subfolders)
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule .* - [F]
+
+# Allow only files
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule .* - [L]
