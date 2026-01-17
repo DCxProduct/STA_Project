@@ -1,0 +1,66 @@
+{
+  "NavBar": {
+    "name":"គ.ជ.អ.ប."
+  },
+  "HomePage": {
+    "title": "សួរស្ដីពិភពលោក!",
+    "home": "ទំព័រដើម",
+    "about": "អំពីយើង",
+    "feedBack": "មតិកែលម្អ",
+    "more": "ស្វែងយល់បន្ថែម",
+    "tourist": "តំបន់ទេសចរណ៍",
+    "news": "ព័ត៌មានថ្មីៗ",
+    "readMore": "អានបន្ថែម",
+    "findMore": "មើលទាំងអស់",
+    "socialMedia": "បណ្ដាញសង្គម",
+    "otherArea": "តំបន់ផ្សេងទៀត",
+    "weather": "អាកាសធាតុ",
+    "emergencyNumber": "លេខអាសន្ន",
+    "numberType": "ប្រភេទលេខទូរសព្ទ",
+    "phoneNumber": "លេខទូរសព្ទ",
+    "contach": "ទំនាក់ទំនង",
+    "expire":"ផុតកំណត់",
+    "download":"ទាញយកនិមិត្តសញ្ញា"
+  },
+  "Search": {
+    "searchHere": "ស្វែងរកព័ត៌មាន",
+    "searchByTopic": "ស្វែងរកព័ត៌មានតាមចំណងជើង",
+    "search": "ស្វែងរក",
+    "email": "មតិយោបល់",
+    "documentSize":"ឯកសារត្រូវតែតូចជាង 2MB",
+    "inputFillIn":"សូមបំពេញសាររបស់អ្នក!",
+    "success":"បានបញ្ជូនដោយជោគជ័យ!",
+    "failed":"មានបញ្ហាក្នុងការបញ្ជូនទម្រង់",
+    "comment":"ការផ្តល់មតិយោបល់",
+    "name":"ឈ្មោះ:",
+    "yourName":"ឈ្មោះរបស់អ្នក",
+    "document":"ឯកសារ",
+    "maxFileSize":"ទំហំឯកសារអតិបរមា 2MB",
+    "massage":"មាតិកាសារ",
+    "yourMassage":"សាររបស់អ្នក",
+    "submit":"ផ្ញើសារ"
+  },
+
+  "Scholarship": {
+    "deadline": "ថ្ងៃផុតកំណត់",
+    "readMore": "អានបន្ថែម"
+  },
+  "CopyRight": {
+    "copyRight": "រក្សាសិទិ្ធគ្រប់យ៉ាងដោយ គ.ជ.អ.ប. ឆ្នាំ​"
+  },
+  "News": {
+    "gallery": "បណ្ដុំរូបភាព"
+  },
+  "Copperation": {
+    "copperation": "សហការរៀបចំដោយ ៖ "
+  },
+  "DetailPage": {
+    "relateDoc": "ឯកសារពាក់ព័ន្ធ ៖ ",
+    "relateCon": "អត្ថបទពាក់ព័ន្ធ ៖ ",
+    "empty": "មិនមានទិន្នន័យ",
+    "download":"ទាញយក",
+    "downloadlogo":"ទាញយកនិមិត្តសញ្ញា",
+    "title":"ចំណងជើង",
+    "downloadDoc":"ទាញយកឯកសារ"        
+  }
+}

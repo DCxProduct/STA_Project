@@ -1,0 +1,67 @@
+{
+  "NavBar": {
+    "name":"NCDD"
+  },
+  "HomePage": {
+    "title": "Hello world!",
+    "home": "Home",
+    "about": "About Us",
+    "feedBack": "FeedBack",
+    "more": "Find out more",
+    "tourist": "Tourist Area",
+    "news": "News",
+    "readMore": "Read More...",
+    "findMore": "Find More",
+    "socialMedia": "Social Media",
+    "otherArea": "Other Area",
+    "weather": "Weather",
+    "emergencyNumber": "Emergency",
+    "numberType": "Service",
+    "phoneNumber": "TEL",
+    "contach": "Contach",
+    "expire":"Expire",
+    "download":"Download Logo"
+  },
+  "Search": {
+    "searchHere": "Search News",
+    "searchByTopic": "Search by Topics",
+    "search": "Search...",
+    "email": "Comments",
+    "documentSize":"The file must be less than 2MB",
+    "inputFillIn":"Please complete your message!",
+    "success":"Successfully Sent!",
+    "failed":"There is trouble forwarding forms",
+    "comment":"Comments",
+    "name":"Name",
+    "yourName":"Your name",
+    "document":"Document",
+    "maxFileSize":"Maximum file size 2MB",
+    "massage":"Message Content",
+    "yourMassage":"Your message",
+    "submit":"Submit"
+  },
+
+  "Scholarship": {
+    "deadline": "Expire at",
+    "readMore": "Read More..."
+  },
+  "CopyRight": {
+    "copyRight": "All rights reserved by the NCDD"
+  },
+  "News": {
+    "gallery": "Gallery",
+    "relatedTopic": "Related Topics"
+  },
+  "Copperation": {
+    "copperation": "Co-organized by : "
+  },
+  "DetailPage": {
+    "relateDoc": "Related Documents",
+    "relateCon": "Related Articles",
+    "empty": "No data",
+    "download":"Download",
+    "downloadlogo":"Download Logo",
+    "title":"Title",
+    "downloadDoc":"Download"    
+  }
+}

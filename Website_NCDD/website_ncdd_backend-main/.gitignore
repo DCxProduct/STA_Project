@@ -1,0 +1,11 @@
+/uploads
+sftp-config.json
+docker-setup.sh
+/docker
+docker-compose.yml
+Dockerfile
+Dockerfile-local
+docker-compose-local.yml
+docker-compose-bk.yml
+Dockerfile-bk
+.DS_Store
